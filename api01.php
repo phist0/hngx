@@ -2,8 +2,8 @@
 $response = array();
 $cdate =  gmdate("Y-m-d\TH:i:s\Z");
 $cday = date ('l');
-$github_file = "https://github/file";
-$github_repo = "https://github/repo";
+$github_file = "https://github.com/phist0/hngx/blob/main/api01.php";
+$github_repo = "https://github.com/phist0/hngx";
 $status = 200;
 
 $response[0]["slack_name"] = "Papa Charlie";
